@@ -1,0 +1,140 @@
+@charset "UTF-8";
+
+
+      body {
+  font-family: 'Roboto Mono',monospace;
+  min-height: 400px;
+  background-color: #928a59;
+  background-size: 80vh;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+ 
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+.page-title {
+  color:#ffffff;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color:#ffffff;
+  margin-top: 5px;
+}
+
+.page-logo {
+  width: 300px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+.imgfundo{
+ margin-top: 15px;
+ margin: auto;
+ width: 350px;
+ height: 500px;
+ border-radius: 10px;
+ position: relative;
+}
+#nota1{
+    width: 45px;
+    height: 20px;
+    margin-right: 0;
+    margin-left: -130px;
+    padding-right: 25px;
+    position: absolute;
+    margin-top: 70px;
+    border-radius: 3px;
+    border-width: 1px;
+}
+#nota2{
+    width: 45px;
+    height: 20px;
+    margin-right: 0;
+    margin-left: -130px;
+    padding-right: 25px;
+    position: absolute;
+    margin-top: 125px;
+    border-radius: 3px;
+    border-width: 1px;
+}
+
+#nota3{
+    width: 45px;
+    height: 20px;
+    margin-right: 0;
+    margin-left: -130px;
+    padding-right: 25px;
+    position: absolute;
+    margin-top: 170px;
+    border-radius: 3px;
+    border-width: 1px;
+}
+#nota4{
+    width: 45px;
+    height: 20px;
+    margin-right: 0;
+    margin-left: -130px;
+    padding-right: 25px;
+    position: absolute;
+    margin-top: 220px;
+    border-radius: 3px;
+    border-width: 1px;
+}
+
+.textonota1{
+    position: absolute;
+    margin-top: -450px;
+    margin-left: 790px;
+    font-size: 12px;
+    font-weight: bolder;
+}
+.textonota2{
+    position: absolute;
+    margin-top: -400px;
+    margin-left: 790px;
+    font-size: 12px;
+    font-weight: bolder;
+}
+.textonota3{
+    position: absolute;
+    margin-top: -350px;
+    margin-left: 790px;
+    font-size: 12px;
+    font-weight: bolder;
+}
+.textonota4{
+    position: absolute;
+    margin-top: -300px;
+    margin-left: 790px;
+    font-size: 12px;
+    font-weight: bolder;
+}
+
+#calcular{
+
+    width: 74px;
+    height: 23px;
+    margin-right: 0;
+    margin-left: -130px;
+    padding-right: 5px;
+    position: absolute;
+    margin-top: 270px;
+    border-radius: 3px;
+    border-width: 1px;
+}
+
+.result{
+  text-align: center;
+  margin-bottom: 800px;
+  position: absolute;
+}
